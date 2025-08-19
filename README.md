@@ -20,3 +20,6 @@ As executable :
 ```
 python -m PyInstaller -F -w '.\work_rest.py'
 ```
+
+### Release
+https://github.com/AlexisAmadei/work_rest/releases/tag/release
